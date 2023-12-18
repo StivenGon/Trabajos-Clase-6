@@ -1,4 +1,4 @@
-// Ejercicio 1 Practica 05
+// Ejercicio 1 Practica 06
 // @author Stiven Gonzalez
 // Clase desarrollada de manera virtual
 import javax.swing.*;
